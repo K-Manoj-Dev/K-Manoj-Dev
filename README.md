@@ -13,7 +13,7 @@ Python Full Stack Developer
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/manu_kd03) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manoj-k-126407330/)
 - 😄 Pronouns: Techie
-- 🎯 Fun Fact: I enjoy solving complex problems with creative solutions!
+- 🎯 Fun Fact: "I started learning Python because I thought it was a snake-related programming challenge. 🐍"
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" />     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png" />
